@@ -1,6 +1,11 @@
 # tiga_sendok
 
-A new Flutter project.
+Panduan instalasi.
+- clone repository ini.
+- masuk ke direktori projek (tiga_sendok).
+- jalankan perintah [flutter pub get] diterminal.
+- jalankan emulator/device jika menggunakan device pastikan anda sudah mengaktifkan mode debugging pada device.
+- jalankan projek dengan perintah [flutter run].
 
 ## Getting Started
 
