@@ -1,3 +1,5 @@
+# Alan Gentina-Lamaran Sbg Mobile Developer-Tugas mini project GOLDEN MOM
+  
 # tiga_sendok
 
 Panduan instalasi.
